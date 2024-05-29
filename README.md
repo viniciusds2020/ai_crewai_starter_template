@@ -1,4 +1,4 @@
-# Agentes de IA com CrewAI, Python e Llama3 usando a API Groq
+# Agentes de IA com CrewAI e Llama3 usando a API Groq
 
 Este repositório contém um exemplo de como criar agentes de IA usando a biblioteca CrewAI, o modelo Llama3 e a API Groq em Python. O objetivo é fornecer uma estrutura básica para configurar e executar agentes de IA.
 
