@@ -16,8 +16,8 @@ Antes de começar, certifique-se de ter os seguintes requisitos instalados:
 1. Clone o repositório:
 
     ```bash
-    git clone https://github.com/seuusuario/ia-agentes.git
-    cd ia-agentes
+    git clone https://github.com/viniciusds2020/ai_crewai_starter_template.git
+    cd ai_crewai_starter_template
     ```
 
 2. Crie um ambiente virtual (opcional, mas recomendado):
