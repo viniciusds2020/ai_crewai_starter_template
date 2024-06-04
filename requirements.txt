@@ -1,0 +1,6 @@
+crewai
+crewai_tool
+duckduckgo-search
+langchain-community
+langchain
+langchain-groq==0.0.1
