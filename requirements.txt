@@ -1,5 +1,5 @@
 crewai
-crewai_tool
+crewai-tools
 duckduckgo-search
 langchain-community
 langchain
